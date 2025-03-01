@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sezer</h1>
 
-- 🔭 I’m currently working on **Pomotodo**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **www.linkedin.com/in/sezerkaynak**
 
 <p align="left">
